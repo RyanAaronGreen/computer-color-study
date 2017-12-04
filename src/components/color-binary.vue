@@ -198,21 +198,21 @@ h1, h2 {
   transform: translate(-60%, -60%);
   position: absolute;
   opacity: 1;
-  mix-blend-mode: exclusion;
+  mix-blend-mode: screen;
   background-color: #c0392b;
 }
 #color-wheel--green {
   transform: translate(-50%, -40%);
   position: absolute;
   opacity: 1;
-  mix-blend-mode: exclusion;
+  mix-blend-mode: screen;
   background-color: #2ecc71;
 }
 #color-wheel--blue {
   transform: translate(-40%, -60%);
   position: absolute;
   opacity: 1;
-  mix-blend-mode: exclusion;
+  mix-blend-mode: screen;
   background-color: #3498db;
 }
 #color-wheel--real {
